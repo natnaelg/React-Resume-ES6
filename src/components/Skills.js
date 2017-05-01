@@ -1,16 +1,20 @@
 import React from 'react';
+import SkillItem from './SkillItem';
 
 const Skills = props => {
-    const getSkills = props.skillsData[0].keywords.map(function(item, index) {
-      return (<li key={index}><span className="label label-success">{item}</span></li>)
-    });
+	const getSkills = () => {
+		const skillItems = [];
+		props.skillsData.forEach((val, index) => {
+			skillItems.push(<SkillItem data={val} />);
+		})
+		return skillItems;
+	};
 
-  	return (
-  	  <section className="skills">
-        <h2 className="text-uppercase"><i className="fa fa-lg fa-code"></i> Skills</h2>
-        <ul className="skills-list list-inline">{getSkills}</ul>
-      </section>
-  	)
+	return (
+			<section className="skills">
+				{getSkills()}
+			</section>
+	);
 };
 
 export default Skills;

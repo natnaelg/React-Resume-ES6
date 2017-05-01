@@ -20,7 +20,7 @@ const WorkItem = props => {
 
     return (
         <div className="workItem">
-          <h3>{props.workItemData.position}, <span>{props.workItemData.company}</span></h3>
+          <h3><a href={props.workItemData.website}><span>{props.workItemData.company}:</span></a> {props.workItemData.position}</h3>
           <p className="workDates">{getWorkDates()}</p>
           <p>{props.workItemData.summary}</p>
           <ul>{getHighlights}</ul>

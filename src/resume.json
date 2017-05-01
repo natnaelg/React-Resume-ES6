@@ -1,133 +1,118 @@
 {
   "basics": {
-    "name": "Jonathan Bloomer",
-    "label": "Front End Developer",
+    "name": "Natnael Getahun",
+    "label": "Security Consultant",
     "picture": "./profilePhoto.jpg",
-    "email": "jonbloomer@gmail.com",
-    "phone": "0403933281",
-    "website": "http://freaksauce.com",
-    "summary": "Over the past 16 years I have continuously challenged myself with new languages, frameworks and methodologies. My core languages have always been html, css & javascript but I have also worked as a full stack php developer building both bespoke CMS solutions and small business applications. In my current role at IAG I am working on an Angular Business Insurance application. I have a very strong interest in full stack javascript development and have recently been experimenting with Meteor and React as well as Typescript and Polymer as you will see from my Github repos. I have experience using build tools such as Grunt & Gulp and templating languages such as Handlebars and experience using Git with both Stash and Github. In my most recent role I have been exposed to enterprise Agile development and received training and certification in SAFe ScrumXP (Scaled Agile Framework).",
+    "email": "natnaelgetahun@gmail.com",
+    "website": "https://google.com",
+    "summary": "I hack stuff or something like that",
     "location": {
-      "address": "Sutherland",
-      "postalCode": "2232",
-      "city": "Sydney",
-      "countryCode": "Aus",
-      "region": "NSW"
+      "postalCode": "94110",
+      "city": "San Francisco",
+      "countryCode": "USA",
+      "region": "CA"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "jonbloomer",
+        "username": "natnaelg",
         "url": ""
       },
       {
         "network": "Github",
-        "username": "freaksauce",
+        "username": "natnaelg",
         "url": ""
       }
     ]
   },
   "work": [
     {
-      "company": "IAG",
-      "position": "Senior Front End Developer",
-      "website": "http://nrma.com.au",
-      "startDate": "2016-08-01",
+      "company": "NCC Group",
+      "position": "Security Consultant",
+      "website": "https://nccgroup.trust",
+      "startDate": "2015-07-20",
       "endDate": "",
-      "summary": "I returned to IAG to work as a React developer on a new application. The app uses React/Redux to integrate with custom API's.",
-      "highlights": []
+      "summary": "Performed over 30 security assessments of a wide range of platforms of various size and complexity.",
+      "highlights": [
+        "Identified critical vulnerabilities in Web Applications (Rails, Spring, Django, etc), iOS and Android applications, REST and SOAP APIs, internal and external networks, Linux Host Configurations and SSO deployments",
+        "Triaged Bug Bounty issues and acted as liason between companies and pentesters",
+        "Managed and mentored an intern through a summer research project",
+        "Tech lead complex projects solo and as part of a group",
+        "Wrote internal Python tools to simplify day to day testing"
+      ]
     },
     {
-      "company": "Pacific Magazines",
-      "position": "Senior Front End Developer",
-      "website": "",
-      "startDate": "2016-03-01",
-      "endDate": "2016-08-01",
-      "summary": "During my time at Pacific Magazines I worked on a couple of large React applications using React/Redux to integrate with a .NET MVC Application.",
-      "highlights": []
-    },
-    {
-      "company": "IAG",
-      "position": "UI Developer",
-      "website": "http://nrma.com.au",
-      "startDate": "2014-11-01",
-      "endDate": "2016-03-01",
-      "summary": "Working as a UI developer as part of IAG Labs developing html/css/javascript solutions to integrate with the backend systems for the online quoting applications.",
-      "highlights": []
-    },
-    {
-      "company": "Reactive",
-      "position": "Front End Developer",
-      "website": "",
+      "company": "MIT CSAIL",
+      "position": "Undergraduate Researcher",
+      "website": "https://www.csail.mit.edu",
       "startDate": "2014-09-01",
-      "endDate": "2014-11-30",
-      "summary": "At Reactive I was responsible for working with a .NET team to deliver templates using javascript/sass/grunt and handlebars. I also had exposure to TFS for source control.",
-      "highlights": []
+      "endDate": "2015-02-01",
+      "summary": "Provided programming support for a research project that attempted to optimize the optimization layer of SMT solvers using Program Synthesis and Machine Learning.",
+      "highlights": [
+		"Wrote an SMTlibv2 parser in Python and translated it into a Directed Acyclic Graph that can be consumed by Sketch"
+      ]
     },
     {
-      "company": "City of Sydney Council",
-      "position": "Front End Developer",
-      "website": "",
-      "startDate": "2014-05-01",
-      "endDate": "2014-08-31",
-      "summary": "For City of Sydney I was a Front End Developer working with Wordpress on multiple key websites such as Sydneynewyearseve.com.au. All code was developed using LESS and Bootstrap for a consistent responsive interface.",
-      "highlights": []
+      "company": "Netcraft",
+      "position": "Internet Services Development Intern",
+      "website": "https://www.netcraft.com",
+      "startDate": "2014-06-01",
+      "endDate": "2014-08-01",
+      "summary": "Performed security assessments, improved automated phishing detection software and developed new APIs to interact with Namecheap.",
+      "highlights": [
+      ]
     },
     {
-      "company": "Self Employed",
-      "position": "Freelance Web Developer",
-      "website": "",
-      "startDate": "2010-03-01",
-      "endDate": "2014-05-01",
-      "summary": "As a freelance web developer I mainly concentrated on building bespoke CMS solutions for agencies using Wordpress. As a full stack developer my responsibilities included setting up hosting, domains, databases and delivering an easy to use custom Wordpress theme with Advanced Custom Fields and toward the latter end of my freelance venture, responsive layouts.",
-      "highlights": []
+      "company": "Lumension",
+      "position": "Security Research and Development Intern",
+      "website": "https://www.lumension.com",
+      "startDate": "2013-06-01",
+      "endDate": "2013-08-01",
+      "summary": "Researched security vulnerabilities in application control software and their impact on Lumension's software.",
+      "highlights": [
+        "Wrote a comprehensive Metasploit tutorial for use by sales engineers in the field",
+        "Developed stress testing tools that functioned at the Windows System Call level"
+      ]
     },
     {
-      "company": "Soap Creative",
-      "position": "Senior Web Developer",
-      "website": "http://soapcreative.com",
-      "startDate": "2006-07-01",
-      "endDate": "2010-03-01",
-      "summary": "At SOAP I was required to carry out full stack duties across a broad range of projects including php/MySQL with front end technologies ranging from html/css to Flash.",
-      "highlights": []
+      "company": "MIT Interphase and ESG",
+      "position": "Teaching Assistant",
+      "website": "https://ome.mit.edu/programs-services/interphase-edge-empowering-discovery-gateway-excellence",
+      "startDate": "2012-06-01",
+      "endDate": "2013-08-01",
+      "summary": "Taught incoming and current freshman multi-variable calculus through recitations. Additionally, I graded assignments and tests and held weekly office hours.",
+      "highlights": [
+      ]
     },
     {
-      "company": "M&C Saatchi",
-      "position": "Web Developer",
-      "website": "http://mcsaatchi.com.au/",
-      "startDate": "2006-05-01",
-      "endDate": "2006-08-31",
-      "summary": "Flash development with xml & amfphp for php/mysql integration.",
-      "highlights": []
-    },
-    {
-      "company": "Wunderman/GPY&R",
-      "position": "Web Developer",
-      "website": "http://www.gpyr.com.au/",
-      "startDate": "2005-07-01",
-      "endDate": "2006-05-01",
-      "summary": "Flash developer using xml & amfphp, html/css with php/mysql backend integration and CMS development.",
-      "highlights": []
-    },
-    {
-      "company": "Federal Publishing Company",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2004-07-01",
-      "endDate": "2005-03-31",
-      "summary": "Lead web developer on homehound.com.au, html/css/javascript development with php & SQL server integration.",
-      "highlights": []
+      "company": "MIT Admissions",
+      "position": "Student Blogger",
+      "website": "http://mitadmissions.org/blogs/author/natnaelg",
+      "startDate": "2011-08-01",
+      "endDate": "2015-08-01",
+      "summary": "Wrote about my experiences at MIT to a large audience of potential incoming freshman.",
+      "highlights": [
+      ]
     }
   ],
   "volunteer": [],
   "education": [
     {
-      "institution": "Birmingham Conservatoire",
-      "area": "Music",
-      "studyType": "Bachelor (hons)",
-      "startDate": "1994-08-01",
-      "endDate": "1998-07-01",
-      "gpa": "",
+      "institution": "Massachusetts Institute of Technology",
+      "area": "Computer Science and Engineering",
+      "studyType": "Bachelors of Science",
+      "startDate": "2011-08-01",
+      "endDate": "2015-07-01",
+      "gpa": "3.5/4.0",
+      "courses": []
+    },
+    {
+      "institution": "Massachusetts Institute of Technology",
+      "area": "Computer Science and Engineering",
+      "studyType": "Masters of Engineering",
+      "startDate": "2017-08-01",
+      "endDate": "2018-07-01",
+      "gpa": "3.5/4.0",
       "courses": []
     }
   ],
@@ -135,39 +120,46 @@
   "publications": [],
   "skills": [
     {
-      "name": "Front End Development",
-      "level": "Master",
+      "name": "Programming Languages",
       "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript",
-        "ES2015",
-        "jQuery",
-        "Typescript",
-        "Meteor",
-        "React",
-        "Handlebars",
-        "SASS",
-        "LESS",
-        "Gulp",
-        "Grunt",
-        "Babel",
-        "Bootstrap",
-        "Semantic UI",
-        "Material css",
-        "Node",
-        "php",
-        "MySQL",
-        "Git",
-        "Jira",
-        "Responsive"
+        "Python",
+		"Java",
+		"C/C++",
+		"Javascript"
       ]
-    }
+    },
+	{
+	"name": "Tools",
+	"keywords": [
+		"AFL",
+		"Burp",
+		"Git",
+		"LaTeX",
+		"nmap",
+		"Wireshark/tcpdump"
+		]
+	},
+	{
+	"name": "Systems",
+	"keywords": [
+		"Android",
+		"iOS",
+		"Linux",
+		"BLE",
+		"Docker Containers",
+		"VMware ESXi",
+		"AWS"
+		]
+	}
   ],
   "languages": [
     {
       "language": "English",
       "fluency": "Native speaker"
+    },
+    {
+      "language": "Amharic",
+      "fluency": "Conversational"
     }
   ],
   "interests": [
