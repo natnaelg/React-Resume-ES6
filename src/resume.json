@@ -3,9 +3,9 @@
     "name": "Natnael Getahun",
     "label": "Security Consultant",
     "picture": "./profilePhoto.jpg",
-    "email": "natnaelgetahun@gmail.com",
-    "website": "https://google.com",
-    "summary": "I hack stuff or something like that",
+    "email": "natnaelg@mit.edu",
+    "website": "https://natnaelg.com",
+    "summary": "Welcome to my resume! My name is Nati, I am an MIT '15 and security professional. My primary interests revolve around web application security, security policy and better understanding how individuals can write secure code. For the last two years I have worked in a security pentesting role and had the pleasure of seeing a wide range of technologies and garner a better understanding of the security landscape of the web.",
     "location": {
       "postalCode": "94110",
       "city": "San Francisco",
@@ -32,13 +32,24 @@
       "website": "https://nccgroup.trust",
       "startDate": "2015-07-20",
       "endDate": "",
-      "summary": "Performed over 30 security assessments of a wide range of platforms of various size and complexity.",
+      "summary": "Performed dozens of security assessments of a wide range of platforms of various size and complexity.",
       "highlights": [
         "Identified critical vulnerabilities in Web Applications (Rails, Spring, Django, etc), iOS and Android applications, REST and SOAP APIs, internal and external networks, Linux Host Configurations and SSO deployments",
         "Triaged Bug Bounty issues and acted as liason between companies and pentesters",
         "Managed and mentored an intern through a summer research project",
         "Tech lead complex projects solo and as part of a group",
         "Wrote internal Python tools to simplify day to day testing"
+      ]
+    },
+    {
+      "company": "MIT Sloan",
+      "position": "Undergraduate Researcher",
+      "website": "https://www.mitsloan.mit.edu/",
+      "startDate": "2015-06-01",
+      "endDate": "2015-08-01",
+      "summary": "Provided programming support for a research project that attempted to get a better understanding of the Zero Day market and bug bounties.",
+      "highlights": [
+		"Wrote Python scripts to scrape Hackerone and organize data about public bug bounties and their payouts"
       ]
     },
     {
@@ -107,12 +118,12 @@
       "courses": []
     },
     {
-      "institution": "Massachusetts Institute of Technology",
+      "institution": "Cambridge University",
       "area": "Computer Science and Engineering",
-      "studyType": "Masters of Engineering",
-      "startDate": "2017-08-01",
-      "endDate": "2018-07-01",
-      "gpa": "3.5/4.0",
+      "studyType": "Study Abroad",
+      "startDate": "2013-08-01",
+      "endDate": "2014-06-01",
+      "gpa": "N/A",
       "courses": []
     }
   ],
