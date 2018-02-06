@@ -13,8 +13,7 @@ const Profile = props => {
                   </ul>
                   <div className="divider"></div>
                   <ul className="profileLinks list-inline text-center">
-                    <li><a className="fa fa-twitter fa-2x" href={'https://twitter.com/'+profileObj.profiles[0].username}></a></li>
-                    <li><a className="fa fa-github fa-2x" href={'https://github.com/'+profileObj.profiles[1].username}></a></li>
+                    <li><a className="fa fa-github fa-2x" href={'https://github.com/'+profileObj.profiles[0].username}></a></li>
                   </ul>
                   <div className="divider"></div>
                   <p>I built this site with <a href="https://facebook.github.io/react/">React</a> components and a <a href="https://jsonresume.org/schema/">JSON Resume Schema</a>. The full source code can be found in <a href="https://github.com/natnaelg/React-Resume-ES6">my Github repo</a>, a fork of <a href="https://github.com/freaksauce/React-Resume-ES6">React-Resume-ES6</a></p>

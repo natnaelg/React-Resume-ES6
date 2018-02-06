@@ -14,11 +14,6 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "natnaelg",
-        "url": ""
-      },
-      {
         "network": "Github",
         "username": "natnaelg",
         "url": ""
@@ -27,11 +22,26 @@
   },
   "work": [
     {
+      "company": "Datadog",
+      "position": "Application Security Engineer",
+      "website": "https://www.datadog.com",
+      "startDate": "2017-08-15",
+      "endDate": "",
+      "summary": "Developed tools, managed incident response and identified vulnerabilities for the product security team.",
+      "highlights": [
+    	"Designed and developed internal applications to automate away security related concerns.",
+		"Provided security reviews of applications in Golang, Python and Java and offered context specific recommendations to remedy potential threats.",
+		"Provided security reviews of new architecture and infrastructure in both AWS and GCP",
+		"Developed product security monitoring tools to automate the identification of critical components in a constantly evolving and large organization without blocking developers.",
+		"Facilitated product incidence response, quickly identifying solutions and delegating efforts." 
+	]
+    },
+    {
       "company": "NCC Group",
       "position": "Security Consultant",
       "website": "https://nccgroup.trust",
       "startDate": "2015-07-20",
-      "endDate": "",
+      "endDate": "2017-08-01",
       "summary": "Performed dozens of security assessments of a wide range of platforms of various size and complexity.",
       "highlights": [
         "Identified critical vulnerabilities in Web Applications (Rails, Spring, Django, etc), iOS and Android applications, REST and SOAP APIs, internal and external networks, Linux Host Configurations and SSO deployments",
