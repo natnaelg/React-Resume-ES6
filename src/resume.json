@@ -22,6 +22,18 @@
   },
   "work": [
     {
+      "company": "Patreon",
+      "position": "Senior Software Engineer",
+      "startDate": "2020-01-22",
+      "endDate": "N/A",
+      "summary": "Built an internationalized CI pipeline, transitioned test infrastructure to Docker and increased reliability by reducing footguns as lead of the Developer Experience team.",
+      "highlights": [
+        "Increased reliability by removing common sources of errors in code canarying",
+        "Launched https://patreon.com?l=de-DE in German by designing and building an internationalized CI pipeline",
+        "Planned and executed a move to using docker for local testing, consolidating environments across CI and increasing test reliability"
+      ]
+    },
+    {
       "company": "Stripe",
       "position": "Application Security Engineer",
       "startDate": "2018-09-01",
